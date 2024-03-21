@@ -52,8 +52,8 @@ The on-site audit interview was conducted using tailored questions derived from 
 The primary goals of this audit phase were to:
 
 - [x] Ensure comprehensive data collection during the interview.
-- [] Determine the implementation status of Media Protection controls.
-- [] Document evidence, noting both the provider and the nature of the evidence.
+- [x] Determine the implementation status of Media Protection controls.
+- [x] Document evidence, noting both the provider and the nature of the evidence.
   
 With the interviewees’ consent, the session was both recorded and documented through notes.
 Data collection encompassed interviews, document reviews, and testing to verify active implementation of processes.
