@@ -2,7 +2,8 @@
 # Compliance Audit Lab Documentation/Walkthrough
 
 <br/>
-## Background:
+
+## Background
 This audit focused on examining the Media Protection controls at Falcon IT Systems, specifically to check if they align with the guidelines set out in NIST SP 800-53 regarding Media Controls. 
 We structured the audit into six detailed steps, using NIST SP 800-171 Revision 2, which covers the protection of Controlled Unclassified Information in non-federal systems and organizations, 
 as our primary reference. 
