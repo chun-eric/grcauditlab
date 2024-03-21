@@ -13,6 +13,7 @@ ensuring that they meet the requirements for safeguarding Controlled Unclassifie
 
 Below are the six steps we took to undertake this audit.
 
+
 ## Step 1 - Audit Preparation
 
 In order to prepare for the audit, two questions were asked.
@@ -32,12 +33,14 @@ Network Engineer	Sam Cunningham	23rd February 2024	Falcon Systems HQ
 All audit interview questions were prepared before the onsite interview was conducted and necessary documents such as 
 Falcon IT Systems’ Standard Operating Procedure and Security Plan were requested for review before the onsite audit interview.
 
+
  
 ## Step 2 - Audit Logistics
 
 For the external audit of Falcon IT Systems, it was not feasible to be assigned a liaison officer. 
 Instead, a focused 90-minute meeting was scheduled directly with key personnel—Director of IT John Finnegan and Network Engineer Sam Cunningham—at the Falcon IT Systems Headquarters in Boston, Massachusetts. 
 The objective was to efficiently conclude the onsite interview within 60 minutes, allowing for an additional 30 minutes if needed to cover all necessary ground.
+
 
 
 ## Step 3 - On-site Audit (Data gathering)
@@ -48,7 +51,7 @@ The primary goals of this audit phase were to:
 - Ensure comprehensive data collection during the interview.
 - Determine the implementation status of Media Protection controls.
 - Document evidence, noting both the provider and the nature of the evidence.
-- 
+  
 With the interviewees’ consent, the session was both recorded and documented through notes.
 Data collection encompassed interviews, document reviews, and testing to verify active implementation of processes.
 
@@ -82,6 +85,7 @@ Findings:
 
 
 
+
 ## Step 5 - Analysis 
 
 In this step, our objective is to assess the effectiveness of the security controls under audit. 
@@ -95,6 +99,7 @@ We've introduced a "Disposition" column with four predefined values to describe 
  
 The Disposition value is determined objectively by evaluating the gathered data for each control. 
 This assessment is conducted individually for every control included in the audit.
+
 
 
 ## Step 6 - Reporting our Findings (Final Audit Report)
