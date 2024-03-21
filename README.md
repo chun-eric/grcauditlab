@@ -4,6 +4,7 @@
 
 ## Background
 This audit focused on examining the Media Protection controls at Falcon Systems, specifically to check if they align with the guidelines set out in NIST SP 800-53 regarding Media Controls. 
+Falcon Systems 
 We structured the audit into six detailed steps, using NIST SP 800-171 Revision 2, which covers the protection of Controlled Unclassified Information in non-federal systems and organizations, 
 as our primary reference. 
 
@@ -24,7 +25,7 @@ In order to prepare for the audit, two questions were asked.
     An excel spreadsheet from NIST SP 800-171 revision 2 was used as a base template.
 
 2. <strong>Who did we need to talk to in order to gather our audit information?</strong>
-  - After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon IT Systems:
+  - After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon Systems:
 
 | Job Title |	Name	| Date	| Location |
 | :---: |  :---: |  :---: |  :---: |
