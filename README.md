@@ -20,11 +20,11 @@ Below are the six steps we took to undertake this audit.
 In order to prepare for the audit, two questions were asked.
 
 1. What controls were we auditing? 
-- After contacting Falcon Systems IT department, it was determined that it would be Falcon Systems’ Media Protection controls that needed to be audited based on NIST SP 800-53.
-  An excel spreadsheet from NIST SP 800-171 revision 2 was used as a base template.
+  - After contacting Falcon Systems IT department, it was determined that it would be Falcon Systems’ Media Protection controls that needed to be audited based on NIST SP 800-53.
+    An excel spreadsheet from NIST SP 800-171 revision 2 was used as a base template.
 
 2. Who did we need to talk to in order to gather our audit information?
-- After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon IT Systems:
+  - After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon IT Systems:
 
 | Job Title |	Name	| Date	| Location |
 | :---: |  :---: |  :---: |  :---: |
