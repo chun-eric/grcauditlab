@@ -13,7 +13,7 @@ ensuring that they meet the requirements for safeguarding Controlled Unclassifie
 
 Below are the six steps we took to undertake this audit.
 
-## Step 1 - Audit Preparation
+> ## Step 1 - Audit Preparation
 
 In order to prepare for the audit, two questions were asked.
 1. What controls were we auditing? 
