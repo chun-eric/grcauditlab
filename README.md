@@ -114,10 +114,10 @@ You can add the risk findings in the final report after a risk assessment if nee
 
 Included in the final audit report are the following sections:
 
-# Executive Summary 
-•	Overview: A concise overview of the audit’s objectives, scope, and main findings. Designed for high-level stakeholders.
-•	Key Findings: Highlights critical vulnerabilities or compliance issues.
-•	Recommendations Summary: Summarizes recommended actions.
+### Executive Summary 
+   •	Overview: A concise overview of the audit’s objectives, scope, and main findings. Designed for high-level stakeholders.
+   •	Key Findings: Highlights critical vulnerabilities or compliance issues.
+   •	Recommendations Summary: Summarizes recommended actions.
 
 # Introduction
 •	Purpose of the Audit: Describes objectives and triggers of the audit.
