@@ -119,48 +119,45 @@ You can add the risk findings in the final report after a risk assessment if nee
 Included in the final audit report are the following sections:
 
 ### Executive Summary 
-   •	Overview: A concise overview of the audit’s objectives, scope, and main findings. Designed for high-level stakeholders.
-   •	Key Findings: Highlights critical vulnerabilities or compliance issues.
-   •	Recommendations Summary: Summarizes recommended actions.
+  *	Overview: A concise overview of the audit’s objectives, scope, and main findings. Designed for high-level stakeholders.
+  *	Key Findings: Highlights critical vulnerabilities or compliance issues.
+  *	Recommendations Summary: Summarizes recommended actions.
 
 ### Introduction
-•	Purpose of the Audit: Describes objectives and triggers of the audit.
-•	Scope: Details examined systems, networks, and data.
-•	Methodology: Explains audit methods and tools.
+  *	Purpose of the Audit: Describes objectives and triggers of the audit.
+  * Scope: Details examined systems, networks, and data.
+  * Methodology: Explains audit methods and tools.
 
 ### Audit Methodology and Standards
-•	Audit Procedures: Specific procedures followed, including automated and manual checks. Listing the people the auditors interviewed.
-•	What was Audited?
-•	Standards and Frameworks: Cybersecurity standards and frameworks used as benchmarks. This is the specific set of controls based off a framework such SP 800-171 or NIST CSF.
+  * Audit Procedures: Specific procedures followed, including automated and manual checks. Listing the people the auditors interviewed.
+  * What was Audited?
+  * Standards and Frameworks: Cybersecurity standards and frameworks used as benchmarks. This is the specific set of controls based off a framework such SP 800-171 or NIST CSF.
 
 ### Detailed Findings and Analysis
-•	Security Controls Assessment: Effectiveness of existing security controls.
-•	Compliance Assessment: Compliance with laws, regulations, and standards.
-•	Linking the spreadsheet so anyone can verifiably fact check.
-•	Vulnerabilities Identified: Detailed list of discovered vulnerabilities, categorized by severity.
-
-•	Optionally can add a High Level compliance status (e.g. Listing the top 25 controls and implementation status next to it)
+  * Security Controls Assessment: Effectiveness of existing security controls.
+  * Compliance Assessment: Compliance with laws, regulations, and standards.
+  *	Linking the spreadsheet so anyone can verifiably fact check.
+  *	Vulnerabilities Identified: Detailed list of discovered vulnerabilities, categorized by severity.
+  *	Optionally can add a High Level compliance status (e.g. Listing the top 25 controls and implementation status next to it)
 
 ### Risk Assessment (wait)
-•	Risk Analysis: Identified risks based on likelihood and impact.
-•	Risk Prioritization: Prioritizing risks to guide mitigation efforts.
-
+  * Risk Analysis: Identified risks based on likelihood and impact.
+  * Risk Prioritization: Prioritizing risks to guide mitigation efforts.
 
 ### Recommendations and Action Plan (optional)
-•	Mitigation Strategies: Recommendations for mitigating identified vulnerabilities.
-•	Implementation Timeline: Timeline for implementing recommendations.
-•	As the auditor you could provide a fix in order to help ensure the org get compliant
+  *	Mitigation Strategies: Recommendations for mitigating identified vulnerabilities.
+  *	Implementation Timeline: Timeline for implementing recommendations.
+  *	As the auditor you could provide a fix in order to help ensure the org get compliant
 
 ### Conclusion
-•	Overall Security Posture: Closing assessment of the organization's cybersecurity posture.
-•	Provide key takeaways from the audit such as critical issues and implementation recommendations. 
-•	Future Recommendations: Next steps for continuous improvement.
-
+  * Overall Security Posture: Closing assessment of the organization's cybersecurity posture.
+  *	Provide key takeaways from the audit such as critical issues and implementation recommendations. 
+  *	Future Recommendations: Next steps for continuous improvement.
 
 ### Appendices
-•	Glossary
-•	Detailed Logs and Evidence – supporting documents and evidence collected
-•	Audit Team Members
+*	Glossary
+*	Detailed Logs and Evidence – supporting documents and evidence collected
+*	Audit Team Members
 
 
 
