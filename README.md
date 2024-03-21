@@ -26,11 +26,10 @@ In order to prepare for the audit, two questions were asked.
 2. Who did we need to talk to in order to gather our audit information?
 - After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon IT Systems:
 
-  | Job Title |	Name	| Date	| Location |
-  | :---: |  :---: |  :---: |  :---: |
-
-Director of IT	John Finnegan	23rd February 2024	Falcon Systems HQ
-Network Engineer	Sam Cunningham	23rd February 2024	Falcon Systems HQ
+| Job Title |	Name	| Date	| Location |
+| :---: |  :---: |  :---: |  :---: |
+| Director of IT | John Finnegan | 23rd February 2024 |  Falcon Systems HQ |
+| Network Engineer |	Sam Cunningham |	23rd February 2024 |	Falcon Systems HQ |
 
 All audit interview questions were prepared before the onsite interview was conducted and necessary documents such as 
 Falcon IT Systems’ Standard Operating Procedure and Security Plan were requested for review before the onsite audit interview.
