@@ -100,10 +100,10 @@ In this step, our objective is to assess the effectiveness of the security contr
 
 We've introduced a "Disposition" column with four predefined values to describe the status of each control:
 
-- [+] Not in Place: Indicates that the security control is absent.
-+ Not Applicable: Indicates that the security control is unnecessary or currently not relevant.
-+ Partially Implemented: Indicates that the security control is only partially put into effect.
-+ Fully Implemented: Indicates that the security control is fully in place and effective.
+- [x] Not in Place: Indicates that the security control is absent.
+- [x] Not Applicable: Indicates that the security control is unnecessary or currently not relevant.
+- [x] Partially Implemented: Indicates that the security control is only partially put into effect.
+- [x] Fully Implemented: Indicates that the security control is fully in place and effective.
  
 The Disposition value is determined objectively by evaluating the gathered data for each control. 
 This assessment is conducted individually for every control included in the audit.
