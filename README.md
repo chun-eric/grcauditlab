@@ -98,7 +98,7 @@ Findings:
 
 In this step, our objective is to assess the effectiveness of the security controls under audit. 
 
-We've introduced a "Disposition" column with four predefined values to describe the status of each control:
+We've introduced a ```Disposition``` column with four predefined values to describe the status of each control:
 
 - [x] Not in Place: Indicates that the security control is absent.
 - [x] Not Applicable: Indicates that the security control is unnecessary or currently not relevant.
