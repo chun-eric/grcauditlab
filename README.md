@@ -41,6 +41,7 @@ Falcon IT Systems’ Standard Operating Procedure and Security Plan were request
 
 For the external audit of Falcon IT Systems, it was not feasible to be assigned a liaison officer. 
 Instead, a focused 90-minute meeting was scheduled directly with key personnel—Director of IT John Finnegan and Network Engineer Sam Cunningham—at the Falcon IT Systems Headquarters in Boston, Massachusetts. 
+
 The objective was to efficiently conclude the onsite interview within 60 minutes, allowing for an additional 30 minutes if needed to cover all necessary ground.
 
 <br/>
