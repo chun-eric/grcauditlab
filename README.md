@@ -51,7 +51,7 @@ The objective was to efficiently conclude the onsite interview within 60 minutes
 The on-site audit interview was conducted using tailored questions derived from NIST SP 800-53 Media Controls, addressing both interviewees simultaneously. 
 The primary goals of this audit phase were to:
 
-- [] Ensure comprehensive data collection during the interview.
+-[] Ensure comprehensive data collection during the interview.
 - [] Determine the implementation status of Media Protection controls.
 - [] Document evidence, noting both the provider and the nature of the evidence.
   
