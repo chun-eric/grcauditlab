@@ -57,6 +57,7 @@ The primary goals of this audit phase were to:
 - [x] Document evidence, noting both the provider and the nature of the evidence.
   
 With the interviewees’ consent, the session was both recorded and documented through notes.
+
 Data collection encompassed interviews, document reviews, and testing to verify active implementation of processes.
 
 For any additional information or to address pending action items, quick follow-up communications were promptly executed via email and phone after the audit interview.
