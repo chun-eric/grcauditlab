@@ -12,6 +12,7 @@ ensuring that they meet the requirements for safeguarding Controlled Unclassifie
 
 
 Below are the six steps we took to undertake this audit.
+
 <br/>
 
 ## Step 1 - Audit Preparation
@@ -74,17 +75,17 @@ Below is a sample.
 - Tested	Director of IT	
 
 Data Collection can be in the following form:
-•	Interview – can be via recorded Zoom or in-person.
-•	Documentation – these are documentation provided by the interviewee.
-•	Tested – a process that the organization currently uses.
+*	Interview – can be via recorded Zoom or in-person.
+*	Documentation – these are documentation provided by the interviewee.
+*	Tested – a process that the organization currently uses.
 
 Evidence Detail can be:
-•	The person who provided the evidence.
-•	A documented record or process.
+*	The person who provided the evidence.
+*	A documented record or process.
 
 Findings:
-•	This is the information that was given by the Evidence detail. 
-•	The findings here must be factually verifiable.
+*	This is the information that was given by the Evidence detail. 
+*	The findings here must be factually verifiable.
 
 
 <br/>
