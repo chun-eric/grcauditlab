@@ -25,8 +25,9 @@ In order to prepare for the audit, two questions were asked.
 
 2. Who did we need to talk to in order to gather our audit information?
 - After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon IT Systems:
-  Job Title	Name	Date	Location
 
+  | Job Title |	Name	| Date	| Location |
+  | :---: |  :---: |  :---: |  :---: |
 
 Director of IT	John Finnegan	23rd February 2024	Falcon Systems HQ
 Network Engineer	Sam Cunningham	23rd February 2024	Falcon Systems HQ
