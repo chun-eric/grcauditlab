@@ -81,7 +81,7 @@ Below is a sample.
 <br/>
 
 Data Collection can be:
-*	Interview – can be via recorded Zoom or in-person.
+*	Interview form – can be via recorded Zoom or in-person.
 *	Documentation – these are documentation provided by the interviewee.
 *	Tested – a process that the organization currently uses.
 
