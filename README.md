@@ -3,12 +3,12 @@
 
 
 ## Background
-This audit focused on examining the Media Protection controls at Falcon Systems, specifically to check if they align with the guidelines set out in NIST SP 800-53 regarding Media Controls. 
-Falcon Systems 
+This audit focused on examining the Media Protection controls at Falcone Systems, specifically to check if they align with the guidelines set out in NIST SP 800-53 regarding Media Controls. 
+Falcone Systems 
 We structured the audit into six detailed steps, using NIST SP 800-171 Revision 2, which covers the protection of Controlled Unclassified Information in non-federal systems and organizations, 
 as our primary reference. 
 
-We then compared and aligned the security measures at Falcon IT Systems with the Media Protection controls from NIST SP 800-53 Revision 5, 
+We then compared and aligned the security measures at Falcone IT Systems with the Media Protection controls from NIST SP 800-53 Revision 5, 
 ensuring that they meet the requirements for safeguarding Controlled Unclassified Information.
 
 
@@ -21,27 +21,27 @@ Below are the six steps we took to undertake this audit.
 In order to prepare for the audit, two questions were asked.
 
 1. <strong>What controls were we auditing?</strong> 
-  - After contacting Falcon Systems IT department, it was determined that it would be Falcon Systems’ Media Protection controls that needed to be audited based on NIST SP 800-53.
+  - After contacting Falcone Systems IT department, it was determined that it would be Falcone Systems’ Media Protection controls that needed to be audited based on NIST SP 800-53.
     An excel spreadsheet from NIST SP 800-171 revision 2 was used as a base template.
 
 2. <strong>Who did we need to talk to in order to gather our audit information?</strong>
-  - After communicating with the appropriate personnel from Falcon Systems, we had scheduled meetings with two key personnel from Falcon Systems:
+  - After communicating with the appropriate personnel from Falcone Systems, we had scheduled meetings with two key personnel from Falcone Systems:
 
 | Job Title |	Name	| Date	| Location |
 | :---: |  :---: |  :---: |  :---: |
-| Director of IT | John Finnegan | 23rd February 2024 |  Falcon Systems HQ |
-| Network Engineer |	Sam Cunningham |	23rd February 2024 |	Falcon Systems HQ |
+| Director of IT | John Finnegan | 23rd February 2024 |  Falcone Systems HQ |
+| Network Engineer |	Sam Cunningham |	23rd February 2024 |	Falcone Systems HQ |
 
 All audit interview questions were prepared before the onsite interview was conducted and necessary documents such as 
-Falcon IT Systems’ Standard Operating Procedure and Security Plan were requested for review before the onsite audit interview.
+Falcone IT Systems’ Standard Operating Procedure and Security Plan were requested for review before the onsite audit interview.
 
 <br/>
 
  
 ## Step 2 - Audit Logistics
 
-For the external audit of Falcon IT Systems, it was not feasible to be assigned a liaison officer. 
-Instead, a focused 90-minute meeting was scheduled directly with key personnel—Director of IT John Finnegan and Network Engineer Sam Cunningham—at the Falcon IT Systems Headquarters in Boston, Massachusetts. 
+For the external audit of Falcone IT Systems, it was not feasible to be assigned a liaison officer. 
+Instead, a focused 90-minute meeting was scheduled directly with key personnel—Director of IT John Finnegan and Network Engineer Sam Cunningham—at the Falcone IT Systems Headquarters in Boston, Massachusetts. 
 
 The objective was to efficiently conclude the onsite interview within 60 minutes, allowing for an additional 30 minutes if needed to cover all necessary ground.
 
