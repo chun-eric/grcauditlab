@@ -79,7 +79,8 @@ Below is a sample.
 | Tested |	Network Engineer	| Reviewed Documentation of Media Markings	| 
 
 <br/>
-Data Collection can be in the following form:
+
+Data Collection can be:
 *	Interview – can be via recorded Zoom or in-person.
 *	Documentation – these are documentation provided by the interviewee.
 *	Tested – a process that the organization currently uses.
