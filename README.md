@@ -126,7 +126,7 @@ Included in the final audit report are the following sections:
   *	Key Findings: Highlights critical vulnerabilities or compliance issues.
   *	Recommendations Summary: Summarizes recommended actions.
 
-### Introduction
+### Objective & Scope
   *	Purpose of the Audit: Describes objectives and triggers of the audit.
   * Scope: Details examined systems, networks, and data.
 
