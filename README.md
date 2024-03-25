@@ -126,11 +126,12 @@ Included in the final audit report are the following sections:
 ### Introduction
   *	Purpose of the Audit: Describes objectives and triggers of the audit.
   * Scope: Details examined systems, networks, and data.
-  * Methodology: Explains audit methods and tools.
+
 
 ### Audit Methodology and Standards
   * Audit Procedures: Specific procedures followed, including automated and manual checks. Listing the people the auditors interviewed.
   * What was Audited?
+  * Methodology: Explains audit methods and tools.
   * Standards and Frameworks: Cybersecurity standards and frameworks used as benchmarks. This is the specific set of controls based off a framework such SP 800-171 or NIST CSF.
 
 ### Detailed Findings and Analysis
