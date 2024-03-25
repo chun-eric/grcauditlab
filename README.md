@@ -72,10 +72,12 @@ Our goal here is to ensure that we have collected all the necessary data. Any mi
 We are now starting to organize this data into the excel spreadsheet and inputting it under the following column headings.
 
 Below is a sample.
-- Data Collection	Evidence Detail	Findings
-- Interview	Director of IT	
-- Documentation	Network Engineer	
-- Tested	Director of IT	
+
+| Data Collection |	Evidence Detail	| Findings	| 
+| :---: |  :---: |  :---: |
+| Interview |	Director of IT	| No controls in place	| 
+| Tested |	Network Engineer	| Reviewed Documentation of Media Markings	| 
+
 
 Data Collection can be in the following form:
 *	Interview – can be via recorded Zoom or in-person.
