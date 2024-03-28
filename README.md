@@ -1,7 +1,7 @@
 
 # Compliance Audit Lab Documentation/Walkthrough
 
-### To see the Final Report click on the attached ```Audit Lab Final Report v2.pdf``` in this repository or see it in the bottom of this README.md.
+### To see the full Final Report click on the attached ```Audit Lab Final Report v2.pdf``` located in this repository.
 
 ## Background
 This audit focused on examining the Media Protection controls at Falcone Systems, specifically to check if they align with the guidelines set out in NIST SP 800-53 regarding Media Controls. 
