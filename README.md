@@ -172,6 +172,7 @@ Included in the final audit report are the following sections:
 The full report is in ```Audit Lab Final Report v2.pdf``` in this git repo.
 
 Sample screenshots. 
+<br/>
 <a href="https://ibb.co/PttdXY7"><img src="https://i.ibb.co/Bww9WPX/1.png" alt="1" border="0"></a>
 <a href="https://ibb.co/MsfHgr2"><img src="https://i.ibb.co/s2C4gnm/2.png" alt="2" border="0"></a>
 <a href="https://ibb.co/MVW4d1W"><img src="https://i.ibb.co/d21qZp1/3.png" alt="3" border="0"></a>
