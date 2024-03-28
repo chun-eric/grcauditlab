@@ -165,7 +165,8 @@ Included in the final audit report are the following sections:
 *	Detailed Logs and Evidence – supporting documents and evidence collected
 *	Audit Team Members
 
-
+<br/>
+<br/>
 
 ## Step 7 - Final Audit Report 
 The full report is in ```Audit Lab Final Report v2.pdf``` in this git repo.
