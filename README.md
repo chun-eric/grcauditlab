@@ -119,7 +119,8 @@ This assessment is conducted individually for every control included in the audi
 
 The Final Audit Report is compiled and presented. This an audit report and not a risk report. 
 You can add the risk findings in the final report after a risk assessment if needed.
-The final report is attched in this git repo as a pdf file ```Audit Lab Final Report v2```
+The final report is attched in this git repo as a pdf file ```Audit Lab Final Report v2``` or 
+shown in step 7.
 
 Included in the final audit report are the following sections:
 
@@ -167,13 +168,16 @@ Included in the final audit report are the following sections:
 
 
 
+
+## Step 7 - Final Audit Report Falcone Systems
+
 ![](vertopal_895e3748cbff4990921cef91c80106ca/media/image1.png){width="1.44in"
 height="1.4630457130358705in"}
 
 ![](vertopal_895e3748cbff4990921cef91c80106ca/media/image2.png){width="1.1440004374453194in"
 height="1.2544455380577428in"}
 
-#  Table of Contents {#table-of-contents .TOC-Heading}
+#  Table of Contents 
 
 [Falcone Systems
 [1](#_Toc162516733)](file:///G:\Cybersecurity\GRC\GRC%20Masterclass%20Labs\Compliance%20Audit%20Lab\Audit%20Lab%20Final%20Report%20v2.docx#_Toc162516733)
