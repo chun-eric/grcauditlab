@@ -118,6 +118,7 @@ This assessment is conducted individually for every control included in the audi
 
 The Final Audit Report is compiled and presented. This an audit report and not a risk report. 
 You can add the risk findings in the final report after a risk assessment if needed.
+The final report is attched in this git repo as a pdf file ```Audit Lab Final Report v2```
 
 Included in the final audit report are the following sections:
 
